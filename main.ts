@@ -1,0 +1,7 @@
+/**
+ */
+/**
+ */
+basic.forever(function () {
+	
+})
